@@ -1,0 +1,33 @@
+.cellWrapper {
+  display: flex;
+  align-items: center;
+}
+
+.image {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  margin-right: 10px;
+  object-fit: cover;
+}
+
+.booked {
+  background-color: #f6a997ba;
+  color: green;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.checkin {
+  background-color: rgba(0, 164, 0, 0.386);
+  color: green;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.checkout {
+  background-color: #cd81f174;
+  color: green;
+  padding: 5px;
+  border-radius: 5px;
+}

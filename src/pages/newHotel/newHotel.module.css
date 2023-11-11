@@ -1,0 +1,127 @@
+.new {
+  width: 100%;
+  display: flex;
+}
+
+.newContainer {
+  flex: 6;
+  margin-top: 50px;
+  border-top: 0.5px solid rgb(230, 227, 227);
+}
+
+.top,
+.bottom {
+  -webkit-box-shadow: 2px 4px 10px 1px rgba(0, 0, 0, 0.47);
+  box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+  padding: 10px;
+  margin: 20px;
+  display: flex;
+}
+
+.top,
+.bottom h1 {
+  color: lightgray;
+  font-size: 20px;
+}
+
+.left {
+  flex: 1;
+  text-align: center;
+}
+
+.left img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.right {
+  flex: 2;
+  padding: 0px 20px;
+}
+
+.right form {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  justify-content: space-between;
+}
+
+.selectRooms {
+  width: 100%;
+}
+
+.selectRooms select {
+  width: 80%;
+  padding: 10px;
+}
+
+.formInput {
+  width: 40%;
+}
+
+.formInput label {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.formInput p {
+  font-size: 12px;
+  font-style: italic;
+  margin: 0;
+  margin-bottom: 4px;
+  margin-left: 8px;
+}
+
+.icon {
+  cursor: pointer;
+}
+
+.formInput input {
+  width: 100%;
+  padding: 5px;
+  border: none;
+  border-bottom: 1px solid gray;
+}
+
+.right form button {
+  width: 150px;
+  padding: 10px;
+  border: none;
+  background-color: teal;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.formInput .inputImage {
+  width: 75%;
+  display: inline-block;
+}
+
+.right .btnAddImage {
+  width: 20%;
+  padding: 5px;
+  margin-left: auto;
+}
+
+.listImagesContainer {
+  margin-top: 12px;
+  display: flex;
+  align-items: center;
+}
+
+.listImages {
+  width: 75%;
+}
+.right .btnRemoveImage {
+  width: 150px;
+  margin-left: 32px;
+}
+
+.btnChooseRoom {
+  margin-left: 32px;
+}
