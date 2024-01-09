@@ -18,8 +18,14 @@ NoSQL"
 **Link demo:**
 
 - client: https://hotel-548u.onrender.com
+![Ảnh chụp màn hình 2024-01-09 151236](https://github.com/huydinh-ng/hotel_admin/assets/131755314/bf83851d-aa3a-4d90-b9b2-042d73f776ec)
+
+![Ảnh chụp màn hình 2024-01-09 150945](https://github.com/huydinh-ng/hotel_admin/assets/131755314/444a267a-0147-42b0-a470-1238170157f0)
 
 - admin: https://hotel-admin.onrender.com
+![Ảnh chụp màn hình 2024-01-09 151415](https://github.com/huydinh-ng/hotel_admin/assets/131755314/74531929-6abd-4296-b37b-e5cbe6155396)
+
+![Ảnh chụp màn hình 2024-01-09 151350](https://github.com/huydinh-ng/hotel_admin/assets/131755314/4c0721fe-329f-497e-9368-7407eb202d71)
 
 - sever: https://ass2-sto3.onrender.com
 
